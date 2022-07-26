@@ -16,7 +16,7 @@ Skills: Python /Java/ JS / HTML / CSS
 - ⚡ Fun fact: I am a School Student 
 
 
-[<img src='http://www.w3.org/2000/svg' alt='github' height='40'>](https://github.com/dev-tahsin7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tahsin-ahmad-2004/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/CEO.tahsin.programmer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tahsin_the_warrior/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tahsinahm)  
+[<img src='https://img.icons8.com/dusk/512/000000/github.png' alt='github' height='40'>](https://github.com/dev-tahsin7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tahsin-ahmad-2004/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/CEO.tahsin.programmer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tahsin_the_warrior/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tahsinahm)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dev-tahsin7)](https://github.com/ryo-ma/github-profile-trophy)
 
