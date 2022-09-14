@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tahsinahm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahsinahm" height="30" width="40" /></a>
+<a href="https://twitter.com/your_tahsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahsinahm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tahsin-ahmad-2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahsin-ahmad-2004" height="30" width="40" /></a>
 <a href="https://fb.com/dev.tahsin7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.tahsin7" height="30" width="40" /></a>
 <a href="https://instagram.com/tahsin_the_warrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahsin_the_warrior" height="30" width="40" /></a>
