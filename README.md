@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tahsin Ahmad</h1>
-<h3 align="center">A passionate Python Developer from Bangladesh</h3>
+<h3 align="center">A passionate Backend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-tahsin7&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tahsin7" /> </p>
 
@@ -7,22 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/your_tahsinx" target="blank"><img src="https://img.shields.io/twitter/follow/your_tahsinx?logo=twitter&style=for-the-badge" alt="your_tahsinx" /></a> </p>
 
-- 🔭 I’m currently working on **Python Development**
+- 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python & Django**
 
-- 📫 How to reach me **tahsinahmad2004@gmail.com**
+- 📫 How to reach me **business.tahsinahm@gmail.com**
 
-- ⚡ Fun fact **I am a very fast learner**
+- ⚡ Fun fact **I am a speedy learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/your_tahsinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_tahsinx" height="30" width="40" /></a>
 <a href="https://fb.com/your.tahsinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="your.tahsinx" height="30" width="40" /></a>
 <a href="https://instagram.com/your_tahsinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_tahsinx" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/your_tahsinx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="your_tahsinx" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tahsinahmad2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tahsinahmad2004" height="30" width="40" /></a>
 </p>
 
